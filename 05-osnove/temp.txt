@@ -1,0 +1,9 @@
+modified:   globoka.txt
+        modified:   misel.txt
+        modified:   vesolje.txt
+        modified:   vprasaj.txt
+        modified:   vse.txt
+        modified:   zivljenje.txt
+
+
+https://github.com/katjabercic/rp-prismojeni-repo
