@@ -1,0 +1,14 @@
+# LaTeX pomožne datoteke
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+
+# Ostale pogoste LaTeX začasne datoteke (po želji)
+*.out
+*.toc
+*.nav
+*.snm
+*.bbl
+*.blg
